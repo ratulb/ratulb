@@ -21,7 +21,7 @@ Polyglot programmer: Rust, Mojo, Java, Scala, Python.
 - [Solana: On-Chain Contract & Off-Chain Client in Rust](https://github.com/ratulb/solana_program_and_rust_client) — Solana smart contract with Rust off-chain client.
 
 ### Tools
-- [ChatGPT Mediator](https://github.com/ratulb/chatgpt_mediator) — Mediator layer for ChatGPT-based interactions.
+- [ChatGPT Mediator](https://ratulb.github.io/chatgpt_mediator) — Mediator layer for ChatGPT-based interactions.
 
 ---
 
@@ -29,7 +29,7 @@ Polyglot programmer: Rust, Mojo, Java, Scala, Python.
 
 - [Tech Cottage](https://ratulb.github.io/techcottage/) — Jekyll blog on Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming.
 - [Mojo Programming](https://ratulb.github.io/mojo_programming/) — Mojo language and tensor library blog.
-- [Rust Programming](https://github.com/ratulb/rust_programming) — Rust algorithms and systems programming blog.
+- [Rust Programming](https://ratulb.github.io/rust_programming) — Rust algorithms and systems programming blog.
 - [Arrows](https://ratulb.github.io/arrows/) — Functional programming explorations.
 - [Blogger Archive](https://rbsomeg.blogspot.com) — Original blog archive.
 
