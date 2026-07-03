@@ -27,7 +27,7 @@ Polyglot programmer: Rust, Mojo, Java, Scala, Python.
 
 ## Writing
 
-- [Tech Cottage](https://ratulb.github.io/techcottage/) — Jekyll blog on Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming.
+- [Tech Cottage](https://ratulb.github.io/techcottage/) — Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming.
 - [Mojo Programming](https://ratulb.github.io/mojo_programming/) — Mojo language and tensor library blog.
 - [Rust Programming](https://ratulb.github.io/rust_programming) — Rust algorithms and systems programming blog.
 - [Arrows](https://ratulb.github.io/arrows/) — Functional programming explorations.
