@@ -7,7 +7,7 @@ Building Tenmo — a tensor library and autograd engine in Mojo, 3× faster than
 ## Projects
 
 ### Tensor Libraries & ML
-- [Tenmo](https://github.com/ratulb/tenmo) — Tensor library and neural network framework in Mojo with autograd, SIMD vectorized kernels, and GPU support.
+- [Tenmo](https://github.com/ratulb/tenmo) — Tensor library and neural network framework in Mojo with autograd, SIMD vectorized kernels, and GPU support. Tenmo achieves 3× the throughput of PyTorch CPU on MNIST with pure Mojo — no BLAS, no Python.
 - [MNIST Datasets](https://github.com/ratulb/mnist_datasets) — MNIST dataset loader and viewer.
 - [Pure CIFAR-10](https://github.com/ratulb/pure_cifar_10) — CIFAR-10 classification implemented from scratch.
 
