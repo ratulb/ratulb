@@ -20,16 +20,16 @@ Building Tenmo — a tensor library and autograd engine in Mojo, 3× faster than
 - [Solana: On-Chain Contract & Off-Chain Client in Rust](https://github.com/ratulb/solana_program_and_rust_client) — Solana smart contract with Rust off-chain client.
 
 ### Tools
-- [ChatGPT Mediator](https://github.com/ratulb/chatgpt_mediator) — Mediator layer for ChatGPT-based interactions.
+- [ChatGPT Mediator](https://ratulb.github.io/chatgpt_mediator) — Mediator layer for ChatGPT-based interactions.
 
 ---
 
 ## Writing
 
-- [Tech Cottage](https://ratulb.github.io/techcottage/) — A blog on Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming.
+- [Tech Cottage](https://ratulb.github.io/techcottage/) — Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming.
 - [Mojo Programming](https://ratulb.github.io/mojo_programming/) — Mojo language and tensor library blog.
-- [Rust Programming](https://github.com/ratulb/rust_programming) — Rust algorithms and systems programming blog.
-- [Arrows](https://ratulb.github.io/arrows/) — Functional programming explorations.
+- [Rust Programming](https://ratulb.github.io/rust_programming) — Rust algorithms and systems programming blog.
+- [Arrows](https://ratulb.github.io/arrows/) — A distributed rust actor framework.
 - [Blogger Archive](https://rbsomeg.blogspot.com) — Original blog archive.
 
 ---
