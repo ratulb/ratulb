@@ -26,8 +26,8 @@ Building Tenmo — a tensor library and autograd engine in Mojo, 3× faster than
 
 ## Writing
 
-- [Tech Cottage](https://ratulb.github.io/techcottage/) — Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming.
-- [Mojo Programming](https://ratulb.github.io/mojo_programming/) — Mojo language and tensor library blog.
+- [Tech Cottage](https://ratulb.github.io/techcottage/) — Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming blog grounded in real implementations.
+- [Mojo Programming](https://ratulb.github.io/mojo_programming/) — Mojo language and programming problems - GPU kernels.
 - [Rust Programming](https://ratulb.github.io/rust_programming) — Rust algorithms and systems programming blog.
 - [Arrows](https://ratulb.github.io/arrows/) — A distributed rust actor framework.
 - [Blogger Archive](https://rbsomeg.blogspot.com) — Original blog archive.
