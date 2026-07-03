@@ -1,7 +1,6 @@
 # Ratul Buragohain
 
-Software architect with 20+ years designing secure, high-performance distributed systems.
-Polyglot programmer: Rust, Mojo, Java, Scala, Python.
+Building Tenmo — a tensor library and autograd engine in Mojo, 3× faster than PyTorch CPU on MNIST. Systems architect, 20+ years. Mojo · java · python · Rust · scala · Kubernetes · Solana.
 
 ---
 
@@ -27,7 +26,7 @@ Polyglot programmer: Rust, Mojo, Java, Scala, Python.
 
 ## Writing
 
-- [Tech Cottage](https://ratulb.github.io/techcottage/) — Jekyll blog on Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming.
+- [Tech Cottage](https://ratulb.github.io/techcottage/) — A blog on Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming.
 - [Mojo Programming](https://ratulb.github.io/mojo_programming/) — Mojo language and tensor library blog.
 - [Rust Programming](https://github.com/ratulb/rust_programming) — Rust algorithms and systems programming blog.
 - [Arrows](https://ratulb.github.io/arrows/) — Functional programming explorations.
