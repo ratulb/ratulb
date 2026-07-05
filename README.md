@@ -32,7 +32,7 @@ Mojo · Rust · Java · Scala · Python · Kubernetes · Solana
 ## Writing
 - [Tech Cottage](https://ratulb.github.io/techcottage/) — Mojo, Rust, Kubernetes, Solana, gRPC, and systems programming.
 - [Rust Programming](https://ratulb.github.io/rust_programming) — Programming problems in rust
-- [Arrows](https://ratulb.github.io/arrows/) — A distributed Rust actor framework.
+- [Arrows](https://crates.io/crates/arrows) — A distributed Rust actor framework
 - [Blogger Archive](https://rbsomeg.blogspot.com) — Original blog archive.
 - [Mojo practice log](https://github.com/ratulb/mojo_programming) — algorithms and exercises, ongoing
 ---
