@@ -5,14 +5,14 @@ Currently building **[Tenmo](https://github.com/ratulb/tenmo)** — a fast tenso
 
 Mojo · Rust · Java · Scala · Python · Kubernetes · Solana
 
-[LinkedIn](https://www.linkedin.com/in/ratul-b-5747563/) · [Tech Cottage](https://ratulb.github.io/techcottage/) · <!-- add email if you want people to reach out -->
+[LinkedIn](https://www.linkedin.com/in/ratul-b-5747563/) · [Tech Cottage](https://ratulb.github.io/techcottage/) ·
 
 ---
 
 ## Projects
 
 ### Tensor Libraries & ML
-- **[Tenmo](https://github.com/ratulb/tenmo)** — Tensor library and neural network framework in Mojo with autograd, SIMD-vectorized kernels, and GPU support. 3× faster than PyTorch CPU on MNIST.
+- **[Tenmo](https://github.com/ratulb/tenmo)** — Tensor library and neural network framework in Mojo with autograd, SIMD-vectorized kernels, and GPU support. 
 - **[mbpe](https://github.com/ratulb/mbpe)** — A fast trainable byte-pair encoding engine in Mojo.
 - **[MNIST Datasets](https://github.com/ratulb/mnist_datasets)** — MNIST dataset loader.
 - **[Pure CIFAR-10](https://github.com/ratulb/pure_cifar_10)** — CIFAR-10 dataset loader.
@@ -35,8 +35,6 @@ Mojo · Rust · Java · Scala · Python · Kubernetes · Solana
 - [Rust Programming](https://ratulb.github.io/rust_programming) — Programming problems in rust
 - [Arrows](https://crates.io/crates/arrows) — A distributed Rust actor framework
 - [Blogger Archive](https://rbsomeg.blogspot.com) — Original blog archive.
-<!--- [Mojo practice log](https://github.com/ratulb/mojo_programming) — algorithms and exercises, ongoing -->
----
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/ratul-b-5747563/)
