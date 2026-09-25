@@ -5,7 +5,7 @@ Currently building **[Tenmo](https://github.com/ratulb/tenmo)** — a fast tenso
 
 Mojo · Rust · Java · Scala · Python · Kubernetes · Solana
 
-[LinkedIn](https://www.linkedin.com/in/ratul-b-5747563/) · [Tech Cottage](https://ratulb.github.io/techcottage/) ·
+[Tech Cottage](https://ratulb.github.io/techcottage/) ·
 
 ---
 
@@ -36,5 +36,3 @@ Mojo · Rust · Java · Scala · Python · Kubernetes · Solana
 - [Arrows](https://crates.io/crates/arrows) — A distributed Rust actor framework
 - [Blogger Archive](https://rbsomeg.blogspot.com) — Original blog archive.
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/ratul-b-5747563/)
