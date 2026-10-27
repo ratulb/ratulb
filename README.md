@@ -14,6 +14,7 @@ Mojo · Rust · Java · Scala · Python · Kubernetes · Solana
 ### Tensor Libraries & ML
 - **[Tenmo](https://github.com/ratulb/tenmo)** — Tensor library and neural network framework in Mojo with autograd, SIMD-vectorized kernels, and GPU support. 
 - **[mbpe](https://github.com/ratulb/mbpe)** — A fast trainable byte-pair encoding engine in Mojo.
+- **[chargpt](https://github.com/ratulb/chargpt)** — A character level GPT using tenmo and mbpe
 - **[MNIST Datasets](https://github.com/ratulb/mnist_datasets)** — MNIST dataset loader.
 - **[Pure CIFAR-10](https://github.com/ratulb/pure_cifar_10)** — CIFAR-10 dataset loader.
 
