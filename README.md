@@ -27,7 +27,7 @@ Mojo · Rust · Java · Scala · Python · Kubernetes · Solana
 - [Solana: On-Chain Contract & Off-Chain Client in Rust](https://github.com/ratulb/solana_program_and_rust_client) — Solana smart contract with a Rust off-chain client.
 
 ### Tools
-- [LLM Mediator](https://llm-mediator.vercel.app/) — A ⚛️ React front-end mediator layer for LLM interactions.
+- [LLM Mediator](https://llm-mediator.vercel.app/) — A [⚛️](https://react.dev/) React front-end mediator layer for LLM interactions.
 
 ---
 
