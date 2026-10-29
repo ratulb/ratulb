@@ -1,6 +1,6 @@
 # Ratul Buragohain
 
-System architect with more than two decades of experience in building high-performance, scalable and secure distributed systems.
+System architect with 24 years of experience in building high-performance, scalable and secure distributed systems.
 Currently building **[Tenmo](https://github.com/ratulb/tenmo)** — a fast tensor library and autograd engine in Mojo.
 
 Mojo · Rust · Java · Scala · Python · Kubernetes · Solana
